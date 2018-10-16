@@ -1,3 +1,3 @@
 # curso-git
 
-curso de GIT do Alura
+Curso de GIT do Alura
